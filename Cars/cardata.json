@@ -1,0 +1,112 @@
+﻿[
+  {
+    "Make": "Ford",
+    "Models": [
+      {
+        "Name": "Mustang",
+        "YearRanges": [
+          {
+            "StartYear": "1964",
+            "EndYear": "1973"
+          },
+          {
+            "StartYear": "1974",
+            "EndYear": "1978"
+          },
+          {
+            "StartYear": "1979",
+            "EndYear": "1993"
+          },
+          {
+            "StartYear": "1994",
+            "EndYear": "2004"
+          },
+          {
+            "StartYear": "2005",
+            "EndYear": "2014"
+          },
+          {
+            "StartYear": "2015",
+            "EndYear": "current"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Make": "Chevrolet",
+    "Models": [
+      {
+        "Name": "Corvette",
+        "YearRanges": [
+          {
+            "StartYear": "1953",
+            "EndYear": "1962"
+          },
+          {
+            "StartYear": "1963",
+            "EndYear": "1967"
+          },
+          {
+            "StartYear": "1968",
+            "EndYear": "1982"
+          },
+          {
+            "StartYear": "1984",
+            "EndYear": "1996"
+          },
+          {
+            "StartYear": "1997",
+            "EndYear": "2004"
+          },
+          {
+            "StartYear": "2005",
+            "EndYear": "2013"
+          },
+          {
+            "StartYear": "2014",
+            "EndYear": "current"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Make": "Dodge",
+    "Models": [
+      {
+        "Name": "Charger",
+        "YearRanges": [
+          {
+            "StartYear": "1966",
+            "EndYear": "1967"
+          },
+          {
+            "StartYear": "1968",
+            "EndYear": "1970"
+          },
+          {
+            "StartYear": "1971",
+            "EndYear": "1974"
+          },
+          {
+            "StartYear": "1975",
+            "EndYear": "1978"
+          },
+          {
+            "StartYear": "1982",
+            "EndYear": "1987"
+          },
+          {
+            "StartYear": "2006",
+            "EndYear": "2010"
+          },
+          {
+            "StartYear": "2011",
+            "EndYear": "current"
+          }
+        ]
+      }
+    ]
+  }
+]
