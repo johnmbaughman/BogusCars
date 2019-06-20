@@ -1,6 +1,4 @@
-﻿using System;
-using Bogus;
-using Bogus.Premium;
+﻿using Bogus;
 
 namespace Cars.Bogus
 {
