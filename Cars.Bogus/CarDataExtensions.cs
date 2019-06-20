@@ -8,7 +8,7 @@ namespace Cars.Bogus
     {
         public static CarsDataSet Cars(this Faker faker)
         {
-            return ContextHelper.GetOrSet(faker, () => new CarsDataSet());
+            return new CarsDataSet();
         }
     }
 }
