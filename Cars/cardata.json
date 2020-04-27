@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Make": "Ford",
     "Models": [
@@ -68,6 +68,35 @@
             "EndYear": "current"
           }
         ]
+      },
+      {
+        "Name": "Camaro",
+        "YearRanges": [
+          {
+            "StartYear": "1967",
+            "EndYear": "1969"
+          },
+          {
+            "StartYear": "1970",
+            "EndYear": "1981"
+          },
+          {
+            "StartYear": "1982",
+            "EndYear": "1992"
+          },
+          {
+            "StartYear": "1993",
+            "EndYear": "2002"
+          },
+          {
+            "StartYear": "2010",
+            "EndYear": "2015"
+          },
+          {
+            "StartYear": "2016",
+            "EndYear": "current"
+          }
+        ]
       }
     ]
   },
@@ -103,6 +132,23 @@
           },
           {
             "StartYear": "2011",
+            "EndYear": "current"
+          }
+        ]
+      },
+      {
+        "Name": "Challenger",
+        "YearRanges": [
+          {
+            "StartYear": "1970",
+            "EndYear": "1974"
+          },
+          {
+            "StartYear": "1978",
+            "EndYear": "1983"
+          },
+          {
+            "StartYear": "2008",
             "EndYear": "current"
           }
         ]
